@@ -1,4 +1,9 @@
 {
+  "user": {
+    "username":"setoo@yopmail.com",
+      "password":"Pass@123",
+      "token":"setoo"
+  },
   "student": [
     {
       "name": "baldev",
